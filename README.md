@@ -1,2 +1,5 @@
 # MLynnn349.github.io
-Portfolio Website
+
+This repository will contain my personal portfolio website.
+
+Stay tuned for updates! 😊
